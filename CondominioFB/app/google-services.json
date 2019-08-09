@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "591372052881",
+    "firebase_url": "https://condominiofb-661ca.firebaseio.com",
+    "project_id": "condominiofb-661ca",
+    "storage_bucket": "condominiofb-661ca.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:591372052881:android:eec8694200b2746e",
+        "android_client_info": {
+          "package_name": "com.example.condominiofb"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "591372052881-bbeit2g5gt1srsbnu9mnl2hvo94svbgh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.condominiofb",
+            "certificate_hash": "3eb83eef560c6ee8438403f0033a26dcb3646b26"
+          }
+        },
+        {
+          "client_id": "591372052881-76qigj1j0ppqs9oklqic90nup0l31eq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCTv-mROsyPK6zcd7rucjwSyQe3FVcSP8I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "591372052881-76qigj1j0ppqs9oklqic90nup0l31eq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
